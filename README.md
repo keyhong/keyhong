@@ -1,13 +1,17 @@
-- :sweat_smile: 도전을 좋아하는 <데이터 분석가> & <데이터 엔지니어>
-- :gem: 기본기가 단단한 Developer
-- :relaxed: 느리지만, 천천히, 꾸준히 공부하는 Hustler
-- :sunrise_over_mountains: No pain, No gain. 
+## ✨ Who am I?
 
-<!---
-keyhong/keyhong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+  <li>:sweat_smile: 도전을 좋아하는 <데이터 분석가> & <데이터 엔지니어></li>
+  <li>:gem: 기본기가 단단한 Developer </li>
+  <li>:turtle: 꾸준히, 섬세하게 공부하는 Hustler </li>
+  <li>:sunrise_over_mountains: Always Strive And Prosper </li>
+</ul>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Airflow-17CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache Hive&logoColor=white"/>
+
+## 💻 Stack
+<img alt="Html" img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/>  <img alt="Html" img src="https://img.shields.io/badge/Apache%20Hive-FDEE21.svg?style=flat&logo=Apache-Hive&logoColor=black"/>  <img alt="Html" img src="https://img.shields.io/badge/Apache%20Airflow-017CEE.svg?style=flat&logo=Apache-Airflow&logoColor=white"/>
+
+## 💻 Tools
+<img alt="Html" img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  <img alt="Html" img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white"/>
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
