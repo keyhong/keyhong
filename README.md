@@ -14,7 +14,5 @@
 ## 💻 Tools
 <img alt="Html" img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  <img alt="Html" img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white"/>  <img alt="Html" img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white"/>
 
-    
-    
 [![Solved.ac
-keyhong](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnhong96)](https://solved.ac/wnhong96)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnhong96)](https://solved.ac/wnhong96)
