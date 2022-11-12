@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Airflow-17CEE?style=flat-square&logo=Apache Airflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apache Hive-FDEE21?style=flat-square&logo=Apache Hive&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
