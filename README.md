@@ -1,7 +1,7 @@
 ## 🌟 Who am I?
 
 <ul>
-  <li>:sweat_smile: 도전을 좋아하는 <데이터 분석가> & <데이터 엔지니어></li>
+  <li>:sweat_smile: 도전을 좋아하는 <Data Analyst> & <Data Engineer></li>
   <li>:gem: 기본기가 단단한 Developer </li>
   <li>:turtle: 꾸준히, 섬세하게 공부하는 Hustler </li>
   <li>:sunrise_over_mountains: Always Strive And Prosper </li>
