@@ -17,5 +17,7 @@
 <img src="https://img.shields.io/badge/Java-3776AB.svg?style=flat&logo=java&logoColor=white"/>  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=flat&logo=Apache-Kafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>    
 
 ### 💻 Tools
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white"/>  
+
+<!-- <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat&logo=Android-Studio&logoColor=white"/> -->
 
