@@ -3,7 +3,7 @@
 <ul>
   <li>:sweat_smile: 도전을 좋아하는 &lt;Data Engineer&gt; </li>
   <li>:gem: 기본기가 단단한 Developer를 목표합니다! </li>
-  <li>:turtle: 꾸준히, 섬세하게 공부하는 Hustler </li>
+  <li>:turtle: 꾸준히 공부하는 Hustler </li>
   <li>:sunrise_over_mountains: Always Strive And Prosper </li>
 </ul>
 
