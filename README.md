@@ -12,7 +12,6 @@
     
 ### 🌺 Excellent
 <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Java-3776AB.svg?style=flat&logo=Java&logoColor=white"/>
 
 ### 🧗‍♂️ Studying
 <img src="https://img.shields.io/badge/Java-3776AB.svg?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=flat&logo=Apache-Kafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>    
