@@ -1,7 +1,7 @@
 ## 🌟 Who am I?
 
 <ul>
-  <li>:sweat_smile: 도전을 좋아하는 &lt;Engineer&gt; </li>
+  <li>:sweat_smile: 도전을 좋아하는 Engineer </li>
   <li>:gem: 기본기가 단단한 Developer를 목표합니다! </li>
   <li>:turtle: 꾸준히 공부하는 것을 좋아합니다 :) </li>
   <li>:sunrise_over_mountains: Always Strive And Prosper </li>
