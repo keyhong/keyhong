@@ -21,13 +21,32 @@
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <img src="https://img.shields.io/badge/-Hive-FDEE21.svg?style=flat&logo=Apache-Hive&logoColor=black"/> 
+    <img src="https://img.shields.io/badge/-Airflow-green.svg?style=flat&logo=Apache-Airflow&logoColor=black"/>
+    
 </div>
 
 
 ### 🧗‍♂️ Steady
-<img src="https://img.shields.io/badge/Java-3776AB.svg?style=flat&logo=Java&logoColor=white"/>  <img src="https://img.shields.io/badge/Kafka-231F20.svg?style=flat&logo=Apache-Kafka&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white"/>    
-<img src="https://img.shields.io/badge/-Hive-FDEE21.svg?style=flat&logo=Apache-Hive&logoColor=black"/>  <img src="https://img.shields.io/badge/-Airflow-green.svg?style=flat&logo=Apache-Airflow&logoColor=black"/>
+<div align="left">
+    <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    </a>
+    <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="java" width="40" height="40" />
+    </a> 
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="java" width="40" height="40" />
+    </a> 
+    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="40" height="40" />
+    </a> 
+</div>
+
 
 ### 💻 Tools
 <div align="left">
