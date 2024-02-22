@@ -1,5 +1,5 @@
 ## 🌟 Hello, I'm Keyhong.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=8000&pause=5000&color=2CF7A4&repeat=false&random=false&width=1000&height=80&lines=I'm+a+data+engineer+and+I+enjoy+understanding+the+world+through+data.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=8000&pause=5000&color=2CF7A4&repeat=false&random=false&width=1000&height=80&lines=I'm+a+data+lover+and+I+enjoy+understanding+the+world+through+data.)](https://git.io/typing-svg)
 
 ## ⚒️ Technical Skills
 ### 🌺 Favorite
