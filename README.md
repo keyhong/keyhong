@@ -1,11 +1,11 @@
-![image](https://github.com/keyhong/keyhong/assets/42145122/ad1a305f-a2f0-4012-950a-84348784781c)## 🌟 Hello, I'm Keyhong.
+## 🌟 Hello, I'm Keyhong.
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Doodle+Shadow&size=26&duration=8000&pause=5000&color=2CF7A4&repeat=false&random=false&width=1000&height=80&lines=I'm+a+data+lover+and+I+enjoy+understanding+the+world+through+data.)](https://git.io/typing-svg)
 
 ## ⚒️ Technical Skills
 ### 🌺 Favorite
 <div align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
     </a>
     <a href="https://numpy.org/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" />
@@ -14,19 +14,16 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
     </a>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="pandas" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" />
     </a>
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" />
     </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="linux" width="40" height="40" />
-    </a>
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="airflow" width="40" height="40" />
+    </a> 
     <a href="https://hive.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="airflow" width="40" height="40" />
+        <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40" />
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40" />
@@ -35,24 +32,29 @@
         <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40" />
     </a>  
     <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="java" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="kafka" width="40" height="40" />
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" />
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40" />
-    </a> 
-</div>
-
+    </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+    </a>
+</div>    
 
 ### 🧗‍♂️ Learn
 <div align="left">
     <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
         <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="dbt" width="40" height="40" />
-    </a> 
+    </a>
+    <a href="https://trino.io/" target="_blank" rel="noreferrer">
+        <img src="https://trino.io/assets/trino-twitter.png" alt="trino" width="40" height="40" />
+    </a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="java" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="40" height="40" />
     </a> 
 </div>
 
