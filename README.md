@@ -46,7 +46,7 @@
     </a>
 </div>    
 
-### 🧗‍♂️ Learn
+### 🧗‍♂️ Learning
 
 <div align="left">
     <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
