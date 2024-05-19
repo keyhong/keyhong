@@ -6,15 +6,16 @@
 ## 🌺 Favorite
 
 ### Languages:
+
 | Python3 | SQL |
 |---------|-----|
 |  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" /> 
 
-### Best frameworks and main libraries for Python3:
+### frameworks and libraries for Python3:
 
-| Numpy | Pandas | GeoPandas | Flask | Sklearn |
-|-------|--------|-----------|-------|---------|
-|  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55" /> </a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55" /> </a> | | | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> |
+| Numpy | Pandas | GeoPandas | Sklearn | Flask |
+|-------|--------|-----------|---------|-------|
+|  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="55" height="55" /> </a> | <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="55" height="55" /> </a> | <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="55" height="55"/> | <img src="https://geopandas.org/en/latest/_images/geopandas_icon.png" alt="geopandas" width="55" height="55">| <img src="https://5.imimg.com/data5/HT/HX/YO/GLADMIN-13634783/selection-208-500x500.png" alt="sklearn" width="55" height="55"/> |
 
 ### DBMS:
 
@@ -38,10 +39,6 @@
 
 ### Environments, Tools:
 
-### 💻 Tools
-
-
-
 | Git | Linux | Docker | VS Code | Conda | Jupyter |
 |-----|-------|--------|---------|-------|---------|
 | <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55" /> </a> | <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55" /> </a> | <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55" /> </a> | <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55" /> </a> | <a href="https://www.anaconda.com//" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="anaconda" width="55" height="55" /> </a> | <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="55" height="55" /> </a> |
@@ -50,17 +47,9 @@
 
 ### 🧗‍♂️ Learning
 
-<div align="left">
-    <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-        <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="dbt" width="55" height="55" />
-    </a>
-    <a href="https://trino.io/" target="_blank" rel="noreferrer">
-        <img src="https://trino.io/assets/trino-twitter.png" alt="trino" width="55" height="55" />
-    </a>
-    <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="55" height="55" />
-    </a> 
-</div>
+| DBT | Trino | K8s |
+|-----|-------|-----|
+| <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="dbt" width="55" height="55" /> </a> | <a href="https://trino.io/" target="_blank" rel="noreferrer"> <img src="https://trino.io/assets/trino-twitter.png" alt="trino" width="55" height="55" /> </a> | <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="55" height="55" /> </a> |
 
 
 
