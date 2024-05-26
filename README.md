@@ -9,7 +9,10 @@
 
 | Python3 | SQL |
 |---------|-----|
-|  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" /> 
+|  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55" /> | <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="sql" width="55" height="55" /> 
+
+
+
 
 ### frameworks and libraries for Python3:
 
