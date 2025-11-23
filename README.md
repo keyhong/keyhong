@@ -48,12 +48,6 @@
 
 </div>    
 
-### 🧗‍♂️ Learning
-
-| DBT | Trino | K8s |
-|-----|-------|-----|
-| <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/dbt-icon.svg" alt="dbt" width="55" height="55" /> </a> | <a href="https://trino.io/" target="_blank" rel="noreferrer"> <img src="https://trino.io/assets/trino-twitter.png" alt="trino" width="55" height="55" /> </a> | <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="k8s" width="55" height="55" /> </a> |
-
 
 
 
